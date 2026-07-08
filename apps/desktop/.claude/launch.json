@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "bob-desktop",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["/Users/palabi/Documents/tome/bob/node_modules/.bin/vite", "/Users/palabi/Documents/tome/bob/apps/desktop", "--port", "5173"],
+      "port": 5173
+    }
+  ]
+}
